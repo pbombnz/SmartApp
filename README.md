@@ -4,7 +4,7 @@ System application for online Mail proccessing
 <b>Project Team Members:</b>
 <ul>
 <li>Josh Mina</li>
-<li>Prashant Bhikhu</li>
+<li>PBombNZ</li>
 <li>Julian Moreno</li>
 <li>Phil Clark</li>
 <li>Jonathan Yough</li>
